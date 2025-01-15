@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://mavart2.github.io/portafolio/](https://mavart2.github.io/portafolio/)
 
-- 📫 How to reach me **mavart08@gmail.com**
+- 📫 How to reach me **gmproyect@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:mavart08@gmail.com</h3>
 <p align="left">
 </p>
 

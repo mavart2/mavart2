@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mauricio Vargas</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h1 align="center">Hi! 👋, soy Mauricio Vargas</h1>
+<h3 align="center">Desarrollador Frontend, siempre busco actualizarme en las últimas tecnologías, además de mejorar mis Skills: HTML5 - CSS3 - Bootstrap - JavaScript - React </h3>
 
 - 🔭 I’m currently working on [Bitacora](https://mavart2.github.io/clase1_coder-/index.html)
 

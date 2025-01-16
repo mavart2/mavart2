@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bitacora](https://mavart2.github.io/clase1_coder-/index.html)
 
-- 🌱 I’m currently learning **Web Design**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on [PerfoLink-Chile](https://www.perfolink.org/_perfolink8/index.php)
 

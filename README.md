@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [PerfoLink-Chile](https://www.perfolink.org/_perfolink8/index.php)
 
-- 🤝 I’m looking for help with [Api´s](https://mavart2.github.io/Digimon-Mv/)
+- 🤝 I’m looking for help with [Api´s](https://mavart2.github.io/Digimon-Mv/](https://thriving-cat-24543f.netlify.app/))
 
 - 👨‍💻 All of my projects are available at [https://mavart2.github.io/portafolio/](https://mavart2.github.io/portafolio/)
 

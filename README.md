@@ -3,15 +3,15 @@
 <h1 align="center">Hola! 👋, soy Mauricio Vargas</h1>
 <h3 align="center">Desarrollador Frontend, siempre busco actualizarme en las últimas tecnologías, además de mejorar mis Skills: HTML5 - CSS3 - Bootstrap - JavaScript - React </h3>
 
-- 🔭 I’m currently working on [Bitacora](https://mavart2.github.io/clase1_coder-/index.html)
+- 🔭 I’m currently working on [[Bitacora]](https://thriving-cat-24543f.netlify.app/)(https://mavart2.github.io/clase1_coder-/index.html)
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on [PerfoLink-Chile](https://www.perfolink.org/_perfolink8/index.php)
+- 👯 I’m looking to collaborate on PerfoLink-Chile](https://www.perfolink.org/_perfolink8/index.php)
 
-- 🤝 I’m looking for help with [https://mavart2.github.io/Digimon-Mv/](https://thriving-cat-24543f.netlify.app/)
+- 🤝 I’m looking for help with [[Api]]https://mavart2.github.io/Digimon-Mv/](https://thriving-cat-24543f.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://mavart2.github.io/portafolio/](https://mavart2.github.io/portafolio/)
+- 👨‍💻 All of my projects are available at [[](https://thriving-cat-24543f.netlify.app/)https://mavart2.github.io/portafolio/](https://mavart2.github.io/portafolio/)
 
 - 📫 How to reach me **gmproyect@gmail.com**
 

@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with [[Api]](https://thriving-cat-24543f.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [[](https://thriving-cat-24543f.netlify.app/)https://mavart2.github.io/portafolio/](https://mavart2.github.io/portafolio/)
-
 - 📫 How to reach me **gmproyect@gmail.com**
 
 <h3 align="left">Connect with me: mavart08@gmail.com</h3>

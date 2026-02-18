@@ -3,9 +3,9 @@
 <h1 align="center">Hola! 👋, soy Mauricio Vargas</h1>
 <h3 align="center">Desarrollador Frontend, siempre busco actualizarme en las últimas tecnologías, además de mejorar mis Skills: HTML5 - CSS3 - Bootstrap - JavaScript - React </h3>
 
-- 🔭 I am currently working on my portfolio(https://frontarte.netlify.app/)
+🔭 I am currently working on my portfolio(https://frontarte.netlify.app/)
 
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 - Spring Boot
 - REST API development
 - Full Stack architecture

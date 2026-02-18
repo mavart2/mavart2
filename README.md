@@ -5,15 +5,18 @@
 
 - 🔭 I am currently working on my portfolio(https://frontarte.netlify.app/)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning:
+- Spring Boot
+- REST API development
+- Full Stack architecture
 
-- 👯 I’m looking to collaborate on PerfoLink-Chile](https://www.perfolink.org/_perfolink8/index.php)
+🤝 Open to collaborate on:
+- Frontend React projects
+- UI/UX improvements
+- Digital product development
 
-- 🤝 I’m looking for help with [[Api]](https://thriving-cat-24543f.netlify.app/)
 
-- 📫 How to reach me **gmproyect@gmail.com**
-
-<h3 align="left">Connect with me: mavart08@gmail.com</h3>
+<h3 align="left">📫 Contact:: mavart08@gmail.com</h3>
 <p align="left">
 </p>
 
